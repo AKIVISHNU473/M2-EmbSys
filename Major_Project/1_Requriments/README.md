@@ -27,6 +27,37 @@ COMPONENTS USED:
  # SERVO MOTOR:![Servo](https://user-images.githubusercontent.com/98825305/155834442-450020ff-6c11-45e7-aeb0-ddfc220dc88a.png)
     1 A servomotor  is a rotary actuator or linear actuator that allows for precise control of angular or linear position, velocity and acceleration.
     2 It consists of a suitable motor coupled to a sensor for position feedback. 
+    
+ # SWOT ANALYSIS:
+![swot analysis](https://user-images.githubusercontent.com/98825305/155835445-01b99fcc-7a03-420c-bcb7-4386b395585d.jpg)
+
+
+   # 4W'S & 1H 
+   
+  # WHO
+     
+   1 The project can be used almost by all the particular organization people.At the end,user satisfaction is the goal of the project.
+     
+   # WHAT
+   
+   1 By this project we can check the water level .
+      
+   # WHEN
+   
+   1 This can be used to check the capacity of water content .
+      
+   # WHERE
+   
+   1  This can be used in Water tanks , glasses and big jars .
+      
+   # HOW
+   
+   1 -> This code is designed in such a way that we have to give certain input value upto which the water level is accepted (Threshold)
+   2 ->  when ever the water reaches the certain level it detects .
+   3 -> It will detect by the Ultrasonic sensor which is having transmitter and reciever .
+   4 -> If water reaches threshold it detects and elerts us.
+   
+  
 
      
    
