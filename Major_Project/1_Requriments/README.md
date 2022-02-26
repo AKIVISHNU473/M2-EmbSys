@@ -28,6 +28,15 @@ COMPONENTS USED:
     1 A servomotor  is a rotary actuator or linear actuator that allows for precise control of angular or linear position, velocity and acceleration.
     2 It consists of a suitable motor coupled to a sensor for position feedback. 
     
+ # LIGHT EMITTING DIODE :![LED](https://user-images.githubusercontent.com/98825305/155835931-093b9ae9-2e57-434e-ad09-24834defe6e6.jpg)
+
+    1 A light-emitting diode is a semiconductor light source that emits light when current flows through it.
+    2 Electrons in the semiconductor recombine with electron holes, releasing energy in the form of photons.
+ # RESISTOR:![resistor](https://user-images.githubusercontent.com/98825305/155836025-7d6c6960-078d-4946-8c7c-622c9c597555.jpg)
+
+    1 A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element.
+    2  In electronic circuits, resistors are used to reduce current flow, adjust signal levels, to divide voltages, bias active elements, and terminate transmission lines, among  other uses.
+    
  # SWOT ANALYSIS:
 ![swot analysis](https://user-images.githubusercontent.com/98825305/155835445-01b99fcc-7a03-420c-bcb7-4386b395585d.jpg)
 
