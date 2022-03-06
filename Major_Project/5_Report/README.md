@@ -40,5 +40,25 @@ INTRODUCTION:
    3 -> It will detect by the Ultrasonic sensor which is having transmitter and reciever .
    4 -> If water reaches threshold it detects and elerts us.
    
+    
+ # Requirements 
+## Highlevel Requirements
+|  ID  |   Discription  |Status|
+|------|----------------|------|
+| HR_01| Arduino UNO    |Implemented|
+| HR_02| SIMULIDE|Implemented|
+| HR_03| Ultrasonic Sensor |Implemented|
+| HR_04| Arduino |Implemented|
+| HR_05| Servo Motor |Implemented|
+
+## LowLevel Requirements
+|  ID  |   Discription  |Status|
+|------|----------------|------|
+| LR_01|  Potentiometer | Implemented|
+| LR_02|  Red LED |Implemented| 
+| LR_03|  Blue LED | Implemented|
+| LR_04| Voltage |Implemented|
+| LR_05|  valve|Implemented|
+| LR_06|  Resistor |Implemented|
   
  
