@@ -12,4 +12,33 @@ INTRODUCTION:
   
   ARDUINO:
          Arduino  is an open-source hardware and software company, project, and user community that designs and manufactures single-board microcontrollers and microcontroller                kits for building digital devices.
+     
+     
+  
+   # 4W'S & 1H 
+   
+  # WHO
+     
+   1 The project can be used almost by all the particular organization people.At the end,user satisfaction is the goal of the project.
+     
+   # WHAT
+   
+   1 By this project we can check the water level .
+      
+   # WHEN
+   
+   1 This can be used to check the capacity of water content .
+      
+   # WHERE
+   
+   1  This can be used in Water tanks , glasses and big jars .
+      
+   # HOW
+   
+   1 -> This code is designed in such a way that we have to give certain input value upto which the water level is accepted (Threshold)
+   2 ->  when ever the water reaches the certain level it detects .
+   3 -> It will detect by the Ultrasonic sensor which is having transmitter and reciever .
+   4 -> If water reaches threshold it detects and elerts us.
+   
+  
  
