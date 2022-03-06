@@ -76,18 +76,18 @@ COMPONENTS USED:
 |  ID  |   Discription  |Status|
 |------|----------------|------|
 | HR_01| Arduino UNO    |Implemented|
-| HR_02| SIMULIDE|
-| HR_03| Ultrasonic Sensor |
-| HR_04| Arduino |
-| HR_05| Servo Motor |
+| HR_02| SIMULIDE|Implemented|
+| HR_03| Ultrasonic Sensor |Implemented|
+| HR_04| Arduino |Implemented|
+| HR_05| Servo Motor |Implemented|
 
 ## LowLevel Requirements
-|  ID  |   Discription  | 
-|------|----------------|
-| LR_01|  Potentiometer | 
-| LR_02|  Red LED | 
-| LR_03|  Blue LED | 
-| LR_04| Voltage |
-| LR_05|  valve|
-| LR_06|  Resistor |
+|  ID  |   Discription  |Status|
+|------|----------------|------|
+| LR_01|  Potentiometer | Implemented|
+| LR_02|  Red LED |Implemented| 
+| LR_03|  Blue LED | Implemented|
+| LR_04| Voltage |Implemented|
+| LR_05|  valve|Implemented|
+| LR_06|  Resistor |Implemented|
 
