@@ -60,5 +60,18 @@ INTRODUCTION:
 | LR_04| Voltage |Implemented|
 | LR_05|  valve|Implemented|
 | LR_06|  Resistor |Implemented|
+
+# SWOT ANALYSIS:
+![swot analysis](https://user-images.githubusercontent.com/98825305/155835445-01b99fcc-7a03-420c-bcb7-4386b395585d.jpg)
+
+# ADVANTAGES:
+
+
+     1  Automatic water level controllers can maintain an exact preset water level.
+     2  It can be installed in homes, hotels, and hospitals.
+     3  The power used by this controller is low and negligible.
+     4  It can be installed in metro cities where the drinking water is the only water used for all purposes, which keeps the drinking water from being wasted.
+     5  These controllers are compact, easy to installed, and easy to move.
+     6  The sensor can be free of corrosion and the maintenance cost is very low.
   
  
