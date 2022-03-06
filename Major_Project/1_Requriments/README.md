@@ -73,9 +73,9 @@ COMPONENTS USED:
  
  # Requirements 
 ## Highlevel Requirements
-|  ID  |   Discription  |
-|------|----------------|
-| HR_01| Arduino UNO    |
+|  ID  |   Discription  |Status|
+|------|----------------|------|
+| HR_01| Arduino UNO    |Implemented|
 | HR_02| SIMULIDE|
 | HR_03| Ultrasonic Sensor |
 | HR_04| Arduino |
