@@ -35,10 +35,10 @@ INTRODUCTION:
       
    # HOW
    
-   1 -> This code is designed in such a way that we have to give certain input value upto which the water level is accepted (Threshold)
-   2 ->  when ever the water reaches the certain level it detects .
-   3 -> It will detect by the Ultrasonic sensor which is having transmitter and reciever .
-   4 -> If water reaches threshold it detects and elerts us.
+     1 -> This code is designed in such a way that we have to give certain input value upto which the water level is accepted (Threshold)
+     2 ->  when ever the water reaches the certain level it detects .
+     3 -> It will detect by the Ultrasonic sensor which is having transmitter and reciever .
+     4 -> If water reaches threshold it detects and elerts us.
    
     
  # Requirements 
