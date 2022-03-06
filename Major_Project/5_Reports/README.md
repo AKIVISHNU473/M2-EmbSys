@@ -4,7 +4,22 @@ INTRODUCTION:
 
 
        1 Automatic water level controllers are a product that was created to automatically control a motor, which helps to ensure a constant reserve of water in a storage tank.   
-       2  These automatic water level controllers are used to automatically fill the over-head tank when it starts or has become empty as well as monitor the water level in it.    
+       2  These automatic water level controllers are used to automatically fill the over-head tank when it starts or has become empty as well as monitor the water level in it.
+       
+       
+ ABSTRACT:
+ 
+         1 It becomes difficult for users to judge the level of water in water tanks.
+         2  Water level indicator and controller system is used to sort out the issues associated with water tank. 
+         3  It is also possible to check the level of the water using sensor so that whenever the water goes below, pump gets turned ON automatically.
+         4  Also when there is overflow of water in water tank it uses sensor to detect the water level so that if the water level goes above, the pump gets turned off automatically.
+         5 This system prevents wastage of water. 
+ 
+ 
+ 
+ 
+ 
+ 
  SOFTWARE USED 
  
   SIMULIDE:
@@ -81,5 +96,9 @@ INTRODUCTION:
      4  It can be installed in metro cities where the drinking water is the only water used for all purposes, which keeps the drinking water from being wasted.
      5  These controllers are compact, easy to installed, and easy to move.
      6  The sensor can be free of corrosion and the maintenance cost is very low.
+     
+# DISADVANTAGES:
+      1  It is a passive electrical system and hence it requires continuous power supply.
+      2   If no water source is present, then the submersible pump would start running unnecessarily and overheat itself.
   
  
