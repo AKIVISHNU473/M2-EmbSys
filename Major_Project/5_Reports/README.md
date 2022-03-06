@@ -39,6 +39,14 @@ INTRODUCTION:
      2 ->  when ever the water reaches the certain level it detects .
      3 -> It will detect by the Ultrasonic sensor which is having transmitter and reciever .
      4 -> If water reaches threshold it detects and elerts us.
+     
+     
+   # RESULT:
+      1 The automatic water level controller has been successfully designed and developed. The servo motor  is turned off and on according to the water levels.
+      2  Compared to other conventional methods, the automatic water level controller shows excellent performance with its reliable technology. 
+      3  It is cheaper and durable. 
+      4  The automatic water level controller is a promising controller in terms of system response in water level control with respect to the non-linearity introduced by pumps andsensors. 
+      5  The experimental model was made according to the circuit diagram and the results were as expected.
    
     
  # Requirements 
