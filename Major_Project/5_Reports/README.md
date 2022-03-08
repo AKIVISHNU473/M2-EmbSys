@@ -62,6 +62,18 @@ INTRODUCTION:
       3  It is cheaper and durable. 
       4  The automatic water level controller is a promising controller in terms of system response in water level control with respect to the non-linearity introduced by pumps andsensors. 
       5  The experimental model was made according to the circuit diagram and the results were as expected.
+      
+      
+   # TEST CASES
+   
+   |  ID  |   PORTIONS | ACKNOWLEDGEMENT VOLTAGES|STATUS|
+|------|----------------|------|-----|
+| 01|    3    | 33.33,66.66,99.99 |Implemented|
+| 02| 5|20,40,60,80,100|Implemented|
+| 03| 2 |50,100|Implemented|
+
+
+
    
     
  # Requirements 
